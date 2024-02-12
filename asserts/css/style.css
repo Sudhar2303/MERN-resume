@@ -1,0 +1,45 @@
+body
+{
+    background-color: whitesmoke;
+    box-sizing: border-box;
+}
+.main
+{
+    height: 800px;
+    width: 850px;
+    background-color: hwb(192 64% 31%);
+    margin: 10px auto
+}
+img
+{
+    padding:10px 10px 10px 10px;
+    width: 150px;
+    height: 175px;
+}
+header
+{
+    display: flex;
+}
+h5
+{
+    padding-left: 40px;
+}
+h4
+{
+    padding-left: 20px;
+}
+h3
+{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+section
+{
+    padding: 2%;;
+    float:left;
+}
+aside
+{
+    float: right;
+    padding-right: 150px;
+}
